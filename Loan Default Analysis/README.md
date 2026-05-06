@@ -1,6 +1,6 @@
 # Loan Default Dashboard
 
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection
+### Dashboard Link : https://app.powerbi.com/groups/5317de7d-f5f3-457a-b1ef-20e60cb78eab/dashboards/2a45a871-e887-4850-b87d-25a2d10620ab?experience=power-bi&clientSideAuth=0
 
 ## Problem Statement
 
