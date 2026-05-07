@@ -27,12 +27,12 @@ Also since loan default rate is fluctuating, they must try to stabilize it.
 <img width="1919" height="1079" alt="Dashboard Page" src="https://github.com/user-attachments/assets/d448ab1f-2c82-4cdc-b108-ecf8bfdb9812" />
  
 # Report Snapshot (Power BI DESKTOP)
- 
-![Report Page 1](https://github.com/user-attachments/assets/6f16b512-e77e-4ce9-b62b-d8512c5df86b)
 
-![Report Page 2](https://github.com/user-attachments/assets/25996e4e-8ab4-433a-9456-e7eeae5ee156)
+<img width="1919" height="1079" alt="Report Page 1" src="https://github.com/user-attachments/assets/7a3b80fd-7144-48e5-be4f-aff7b6251382" />
 
-![Report Page 3](https://github.com/user-attachments/assets/567729f7-226f-42f6-aafc-403b241515c9)
+<img width="1919" height="1079" alt="Report Page 2" src="https://github.com/user-attachments/assets/de8c80df-3e61-4d25-b6a9-19d1bf20abe4" />
+
+<img width="1919" height="1079" alt="Report Page 3" src="https://github.com/user-attachments/assets/5fff39d8-7dc3-448b-b233-1068b669a4ca" />
 
 # Insights
 
