@@ -34,7 +34,9 @@ Following inferences can be drawn from the dashboard;
 - Last 12 months sales: $14 Billion
 - Farm's and Villa's property has high "per square metre" price
 - Zealand and Jutland Region has high sales
-      Zealand: $95 Billion
-      Jutland: $81 Billion
+
+        Zealand: $95 Billion
+        Jutland: $81 Billion
 - Zealand Properties has highest per square metre price
-      Averagely every property has ~$21k price for per square metre
+
+        Averagely every property has ~$21k price for per square metre
