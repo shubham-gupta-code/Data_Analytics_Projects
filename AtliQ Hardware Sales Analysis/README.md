@@ -16,20 +16,46 @@ AtliQ Hardware facing low sales so their sales manager wants to identify the key
 - Step 6 : And lastly in 3rd report the business performance analyzed by showing the profit margin %, profit % by zone, revenue comparisona & profit trend as well the customer's revenue and profit contribution. Also created a parameter as a slicer which is able to show which zone has completed the profit target in percentage (used conditional formatting).
 
 # Snapshot of Dashboard (Power BI Service)
-
-<img width="1752" height="562" alt="Screenshot 2026-06-15 210243" src="https://github.com/user-attachments/assets/4ef8dca2-efc2-4350-a175-dd7d6951b7b8" />
+<img width="1787" height="562" alt="Screenshot 2026-06-16 131108" src="https://github.com/user-attachments/assets/dace88c0-0c68-4c4e-b310-075289556eca" />
 
 # Report Snapshot (Power BI DESKTOP)
 
 ## Page 1
-<img width="1211" height="690" alt="Screenshot 2026-06-15 204525" src="https://github.com/user-attachments/assets/f24a0bb3-b237-4583-a25c-4116f0ce3eff" />
+<img width="1267" height="711" alt="Screenshot 2026-06-16 130818" src="https://github.com/user-attachments/assets/c650c362-6453-44a3-8931-e14848a2dbc8" />
 
 ## Page 2
-<img width="1201" height="690" alt="Screenshot 2026-06-15 204544" src="https://github.com/user-attachments/assets/5295240e-5dba-4e8f-b2bb-afcd0a40bdf0" />
+<img width="1271" height="712" alt="Screenshot 2026-06-16 130829" src="https://github.com/user-attachments/assets/464857fb-6199-4b0c-9b4b-6327bd942d12" />
 
 ## Page 3
-<img width="1201" height="687" alt="Screenshot 2026-06-15 204556" src="https://github.com/user-attachments/assets/bc54d047-ab44-46ca-af62-fedc925ae2d1" />
+<img width="1266" height="712" alt="Screenshot 2026-06-16 130838" src="https://github.com/user-attachments/assets/c56200ef-4370-403d-bb67-9bdab961b7ef" />
+
 
 # Insights
-Following inferences can be drawn from the dashboard:
 
+Following inferences can be drawn from the dashboard:
+### [1] Revenue/Sales
+- ~$985 million revenue generated
+- Top 3 high revenue contribution markets Delhi NCR (~53%), Mumbai (~15%), and Ahmedabad (~13%)
+- The peak revenue is in 2018 (+345% than 2017) but after that constantly reducing from 2019 (-18% than 2018),
+  But the profit is increased in 2019 around $1 million even less revenue generated than previous year (2018)
+- Highest Revenue/Profit Contribution by Customer: Electricalsara has 42% of revenue contribution and 37.7% of profit contribution
+- Brick & Mortar products has higher revenue and sales quantity
+
+### [2] Profit Margin
+- ~$24 million profit out of total revenue of ~$985 million
+- 2.5% total profit margin
+- Delhi NCR has ~50% of contribution in profit out of total profit
+- Surat has highest rate of profit margin (~5%) out of its total revenue
+- Profit trend shows $10 million profit in 2019 and only $2 million in 2020 Jan to Jun (6 months) whereas year 2019 Jan to Jun has $6 million profit margin (3x more than 2020).
+- Bengaluru are not generating profit in fact it is ~20% in loss.
+- Leader, Electricalsquipo Stores, & Power has high profit margin percentage (~7%) but they have only ~1% of contribution in revenue
+- Central zone has high profit margin percent
+
+## Business Decisions
+1. Increase profit margin percent in Delhi NCR, Mumbai, and Ahmedabad because they are generating most of the revenue especially 'Delhi NCR' (more than 50%).
+2. Find same domain or customers as Electricalsara because they giving more sales or you can look at different customers at same location as Electricalsara to generate more revenue.
+3. Find the factors (discount, ads, offers, etc.) that is applied in 2018 to increase revenue.
+4. Increase Brick & Mortar productions because they are generating most of the sales.
+5. Increase the sales in Surat because of high profit margin percent from there.
+6. Decrease the sales or try diffferent strategy in Bengaluru to increase sales.
+7. Increase sales in Central zone to generate more profit.
