@@ -25,7 +25,6 @@ Following inferences can be drawn from the SQL Query results;
 In this we can see the conversion rates of the users at different stages
       
       The lowest conversion rate is between 'views' and 'cart'
-      decision: There can be issue with the location of the cart in the application
       
 - Funnel by sources
 <img width="980" height="131" alt="image" src="https://github.com/user-attachments/assets/61903f3f-dc9b-4b5f-ba85-f428ab9ab226" />
