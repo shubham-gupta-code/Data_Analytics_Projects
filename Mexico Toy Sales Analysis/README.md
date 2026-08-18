@@ -1,4 +1,4 @@
-# Mexico Toy Sales — Microsoft Fabric & Power BI Business Intelligence Project
+# Mexico Toy Sales — Microsoft Fabric & Power BI Project
 
 ## Project Links
 
